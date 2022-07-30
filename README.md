@@ -13,6 +13,6 @@ GetVaccine is a Mobile App that help users to book vaccination and built using F
 
 ## Screenshots
 
-|             Home Screen             |        Detail Facility Screen        |           Detail Vaccine            |
-| :---------------------------------: | :----------------------------------: | :---------------------------------: |
-| ![](https://i.ibb.co/zSMzxjr/1.png) | ![](hhttps://i.ibb.co/GxbxphV/2.png) | ![](https://i.ibb.co/NmPVRws/3.png) |
+|             Home Screen             |       Detail Facility Screen        |           Detail Vaccine            |
+| :---------------------------------: | :---------------------------------: | :---------------------------------: |
+| ![](https://i.ibb.co/zSMzxjr/1.png) | ![](https://i.ibb.co/GxbxphV/2.png) | ![](https://i.ibb.co/NmPVRws/3.png) |
